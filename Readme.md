@@ -26,3 +26,9 @@ Reset button to start a new game.
 
 Code  
 
+![Screenshot (4)](https://github.com/User-Surya/Tic-Tak-Toe-Game/assets/158766816/63a5eac1-54b5-4490-966e-91930bd7e846)
+
+GAME
+
+![Screenshot (2)](https://github.com/User-Surya/Tic-Tak-Toe-Game/assets/158766816/c41dfee9-9509-4bee-a394-30244b20450b)
+
